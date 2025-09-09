@@ -15,7 +15,7 @@
     "katex": "^0.16.22",
     "react-markdown": "^10.1.0",
     "rehype-katex": "^7.0.1",
-    "remark-gfm": "^4.0.1"
+    "remark-gfm": "^4.0.1",
     "firebase": "^11.9.0",
     "gsap": "^3.13.0",
     "he": "^1.2.0",
