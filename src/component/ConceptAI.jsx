@@ -12,7 +12,7 @@ const ConceptAI = () => {
   const [loading, setLoading] = useState(false);
   const chatRef = useRef(null);
 
-  // scroll to bottom whenever new message arrives
+
   useEffect(() => {
     if (chatRef.current) {
       chatRef.current.scrollTop = chatRef.current.scrollHeight;
